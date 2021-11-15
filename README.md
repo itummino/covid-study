@@ -1,6 +1,7 @@
+![](/covid1.jpeg) 
 # [Covid-19 Analysis](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266911-dcb66a00-c270-11eb-9df0-c20d82d87cad.png)
 ## *A Global Look into Confirmed Cases, Death Rates, & Vaccinations Data*
-![](/covid1.jpeg)  
+ 
 ### Sources/Procedure:
 - Imported global Covid-19 data from [OurWorldInData](https://ourworldindata.org/covid-deaths) from pandemic start (Feb 2020) to (May 2021) into Microsoft SQL Server Management Studio
 - Extracted and organized case/deaths data and vaccinations data into two separate CSVs to perform table JOINs
